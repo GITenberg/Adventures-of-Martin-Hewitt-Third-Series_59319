@@ -1,0 +1,30 @@
+_repo: Adventures-of-Martin-Hewitt-Third-Series_59319
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crowther, T. S. C.
+    gutenberg_agent_id: '42150'
+    url: http://www.gutenberg.org/2009/agents/42150
+creator:
+  author:
+    agent_name: Morrison, Arthur
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+description: ''
+gutenberg_issued: '2019-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Adventures of Martin Hewitt
+
+  Third Series'
+url: http://www.gutenberg.org/ebooks/59319
